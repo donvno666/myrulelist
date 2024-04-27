@@ -5,3 +5,6 @@ DOMAIN-SUFFIX, gg-global-cdn.com
 DOMAIN-SUFFIX, cloudfront.net
 DOMAIN-SUFFIX, good-game-network.com
 DOMAIN-SUFFIX, good-game-service.com
+
+# banks
+DOMAIN-SUFFIX, paypal.com
