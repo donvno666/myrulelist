@@ -1,0 +1,31 @@
+# bank servies
+DOMAIN-SUFFIX, ifastgb.com
+DOMAIN-SUFFIX, wise.com
+
+# broker
+DOMAIN-SUFFIX, tradingview.com
+DOMAIN-SUFFIX, binance.com
+DOMAIN-SUFFIX, primexbt.com
+DOMAIN-SUFFIX, investing.com
+
+# airport
+DOMAIN-SUFFIX, xn--7gql113q.com
+DOMAIN-SUFFIX, socloud.me
+DOMAIN-SUFFIX, gardenparty.me
+
+# lib
+DOMAIN-SUFFIX, singlelogin.se
+DOMAIN-SUFFIX, singlelogin.re
+
+# ai
+DOMAIN-SUFFIX, claude.ai
+
+# anime&movie
+DOMAIN-SUFFIX, mikanani.me
+DOMAIN-SUFFIX, tmdb.org
+DOMAIN-SUFFIX, themoviedb.org
+DOMAIN-SUFFIX, bangumi.tv
+DOMAIN-SUFFIX, bgm.tv
+
+# other
+DOMAIN-SUFFIX, chinadigitaltimes.net
