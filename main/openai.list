@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,poe.com
 #add bard.google.com
 DOMAIN-SUFFIX,bard.google.com
+# chatgpt update
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,ab.chatgpt.com

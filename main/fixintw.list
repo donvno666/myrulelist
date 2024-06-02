@@ -27,8 +27,13 @@ DOMAIN-SUFFIX, themoviedb.org
 DOMAIN-SUFFIX, bangumi.tv
 DOMAIN-SUFFIX, bgm.tv
 
+<<<<<<< HEAD
 # casino
 DOMAIN-SUFFIX, natural8.com
+=======
+# news
+DOMAIN-SUFFIX, tw.news.yahoo.com
+>>>>>>> 798aaf82897baf01aad928f9a201282668580c3d
 
 # other
 DOMAIN-SUFFIX, chinadigitaltimes.net
