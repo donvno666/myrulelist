@@ -8,6 +8,8 @@ DOMAIN-SUFFIX, binance.com
 DOMAIN-SUFFIX, primexbt.com
 DOMAIN-SUFFIX, primexbt.ch
 DOMAIN-SUFFIX, investing.com
+# bybit
+DOMAIN-SUFFIX, bybit.com
 
 # airport
 DOMAIN-SUFFIX, xn--7gql113q.com
